@@ -18,7 +18,7 @@ This project analyzes **ODI cricket statistics** using **data preprocessing, vis
 - **Attributes:** Player statistics, match performances, runs, wickets, strike rate, matches played, etc.
 
 ### Key Files
-- `ODI Cricket Statistics and Analysis.pynb` → Main script for preprocessing, visualization, and modeling.
+- `ODI Cricket Statistics and Analysis.ipynb` → Main script for preprocessing, visualization, and modeling.
 - `ODI_Cricket_Data.csv` → Raw dataset.
 - `README.md` → Project documentation.
 
@@ -30,11 +30,11 @@ This project analyzes **ODI cricket statistics** using **data preprocessing, vis
 ## Model Performance
 | Model              | R² Score | Mean Squared Error |
 |-------------------|---------|------------------|
-| Linear Regression | 0.XX    | XX.XX            |
-| Decision Tree     | 0.XX    | XX.XX            |
-| Random Forest    | 0.XX    | XX.XX            |
-| Gradient Boosting | 0.XX    | XX.XX            |
-| XGBoost          | 0.XX    | XX.XX            |
+| Linear Regression | -1.667107    | 0.078372           |
+| Decision Tree     | -8.281250    | 0.272727           |
+| Random Forest    | -2.318666    | 0.097518           |
+| Gradient Boosting | -6.280275   | 0.213929         |
+| XGBoost          | -5.784886  | 0.199372           |
 
 ## Future Improvements
 - **More advanced ML models** like Neural Networks.
